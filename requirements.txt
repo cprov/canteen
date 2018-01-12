@@ -1,2 +1,2 @@
 Flask==0.12.2
-talisker==0.9.5
+talisker[flask]==0.9.5
